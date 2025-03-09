@@ -1,4 +1,4 @@
-# Privacy Policy for World Lap
+# Privacy Policy
 
 **Effective Date:** March 9, 2025
 
