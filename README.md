@@ -1,6 +1,6 @@
 <img src="./icon.png" width="200em"/>
 
-Embark on a global adventure with World Lap. Track your walking, running, or biking progress as you edge closer to circling Earth. Download now!
+World Lap is an app that monitors your walks and keeps you motivated through distance challenges and badges. One step at a time, you get closer to going around the world!
 
 [![](download-on-app-store.svg)](https://apps.apple.com/us/app/world-lap/id6743030714)
 
