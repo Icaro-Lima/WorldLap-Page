@@ -10,6 +10,6 @@ Track your walks and achieve exciting goals inspired by iconic places and famous
 Contact:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/worldlap.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarodantas.lima+worldlap@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/nYgzwzQY)
 
 [Privacy Policy](/privacy-policy)
