@@ -13,8 +13,11 @@ World Lap does not require account registration or personal data input.
 - **Session Data:** Your session information, including location data and motion activity, is securely stored in your personal iCloud account using [Apple's CloudKit](https://developer.apple.com/icloud/cloudkit/). We do not have access to this data. For more information, please see [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ### Automatically Collected Information
-- **Usage Analytics:** We use PostHog analytics to understand app usage. This includes tracking app installations, app lifecycle events, screen views, and certain custom events. PostHog generates an anonymous identifier at app installation to link analytics events from the same device. This identifier does not personally identify you and is solely used to improve the app experience. For details, please refer to [PostHog's Privacy Policy](https://posthog.com/privacy).
-- **Location & Motion Data:** The app accesses your location and motion data in the background only when you explicitly start recording an activity session. Location data may also be accessed in the foreground without recording, but only within a specific feature or screen. Location and motion data collected by the app are not used for analytics and are exclusively stored in your personal iCloud account. We do not have access to this data.
+- **Usage Analytics:** We use PostHog analytics to understand app usage. This includes tracking app installations, app lifecycle events, screen views, certain custom events, device information, and generalized location data (city or region). PostHog generates an anonymous identifier at app installation to link analytics events from the same device. This identifier does not personally identify you and is solely used to improve the app experience. For details, please refer to [PostHog's Privacy Policy](https://posthog.com/privacy).
+- **Location & Motion Data:** The app accesses your precise location and motion data in the background only when you explicitly start recording an activity session. Location data may also be accessed in the foreground without recording, but only within a specific feature or screen. Location and motion data collected by the app are not used for analytics and are exclusively stored in your personal iCloud account. We do not have access to this data.
+
+## In-App Purchases
+World Lap offers a freemium model with optional subscriptions via native iOS in-app purchases. Payment transactions are securely handled by Apple and governed by Apple's privacy policies. We do not store or have access to your payment information. For more information, please refer to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## How We Use Your Information
 - **To Provide and Maintain the App:** Your iCloud-stored session data ensures seamless synchronization and restoration of your sessions.
@@ -36,6 +39,7 @@ We may update this Privacy Policy periodically. Any changes will be communicated
 ## Contact Us
 For any questions or concerns regarding this Privacy Policy, please contact us at:
 
-**Email:** icarodantas.lima@gmail.com
+**Name:** Ícaro Lima  
+**Email:** [ica...@gmail.com (anonymized, click the link)](https://mailhide.io/e/nYgzwzQY)
 
 Thank you for trusting World Lap.
